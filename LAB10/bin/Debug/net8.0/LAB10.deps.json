@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LAB10/1.0.0": {
+        "dependencies": {
+          "Helpers": "1.0.0",
+          "LAB10Classes": "1.0.0",
+          "Lab9": "1.0.0"
+        },
+        "runtime": {
+          "LAB10.dll": {}
+        }
+      },
+      "Helpers/1.0.0": {
+        "runtime": {
+          "Helpers.dll": {}
+        }
+      },
+      "LAB10Classes/1.0.0": {
+        "dependencies": {
+          "Helpers": "1.0.0"
+        },
+        "runtime": {
+          "LAB10Classes.dll": {}
+        }
+      },
+      "Lab9/1.0.0": {
+        "dependencies": {
+          "Helpers": "1.0.0",
+          "LAB10Classes": "1.0.0"
+        },
+        "runtime": {
+          "Lab9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LAB10Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

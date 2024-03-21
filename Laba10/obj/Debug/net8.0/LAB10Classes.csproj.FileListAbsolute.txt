@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Laba10\Laba10\bin\Debug\net8.0\LAB10Classes.deps.json
+C:\Users\Admin\source\repos\Laba10\Laba10\bin\Debug\net8.0\LAB10Classes.dll
+C:\Users\Admin\source\repos\Laba10\Laba10\bin\Debug\net8.0\LAB10Classes.pdb
+C:\Users\Admin\source\repos\Laba10\Laba10\bin\Debug\net8.0\Helpers.dll
+C:\Users\Admin\source\repos\Laba10\Laba10\bin\Debug\net8.0\Helpers.pdb
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.csproj.CopyComplete
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.dll
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\refint\LAB10Classes.dll
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.pdb
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\ref\LAB10Classes.dll
