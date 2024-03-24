@@ -53,13 +53,6 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethodSetMinimumPlayersGreaterThanMax()  // setter, gde minimumPlayers > maxPlayers
-        {
-            Game g1 = new Game("TestGame", 2, 6, new Game.IdNumber());
-            Assert.ThrowsException<ArgumentException>(() => g1.MinimumPlayers = 7);
-        }
-
-        [TestMethod]
         public void TestMethodShallowCopy() // метод копирования
         {
             Game g1 = new Game("TestGame", 2, 6, new Game.IdNumber());

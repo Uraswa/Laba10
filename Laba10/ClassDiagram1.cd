@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laba10.Game">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Laba10.Game.IdNumber" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAKoAQAAAKAgAQEgAAAAAQAAAAEAAAAAAACABgAABA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Laba10.TableGame">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAAAAAgCAAAAAAAAQEAAAAAABCAAlCAAA=</HashCode>
+      <FileName>TableGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba10.VideoGame">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAEgAAgAAAAAAAAAAEAAAAABAKAAAAAAA=</HashCode>
+      <FileName>VideoGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba10.VRGame">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgBQAAACAAACAgAAAAAAAAAAEAAAAAAACACAAAAA=</HashCode>
+      <FileName>VRGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LAB10Classes.IInit">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IInit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Laba10.Device">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAAA=</HashCode>
+      <FileName>VideoGame.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

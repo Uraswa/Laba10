@@ -13,3 +13,4 @@ C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.dll
 C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\refint\LAB10Classes.dll
 C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.pdb
 C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\ref\LAB10Classes.dll
+C:\Users\Admin\source\repos\Laba10\Laba10\obj\Debug\net8.0\LAB10Classes.sourcelink.json

@@ -78,11 +78,12 @@ namespace Laba10
         private uint _maximumPlayers;
         public uint MinimumPlayers { 
             get => _minimumPlayers; 
-            set { 
+            set {
                 if (value == 0)
                 {
                     throw new ArgumentException("В игре не может быть 0 игроков. Иначе какой в ней смысл?");
-                } else
+                }
+                else
                 {
                     _minimumPlayers = value;
                 }

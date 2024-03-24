@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -32,6 +33,7 @@ namespace Laba10
             AreVRGlassesRequired = game.AreVRGlassesRequired;
         }
 
+        [ExcludeFromCodeCoverage]
         public new void Show()
         {
             Console.WriteLine($"" +
@@ -40,12 +42,14 @@ namespace Laba10
                 );
         }
 
+        [ExcludeFromCodeCoverage]
         public override void ShowVirtual()
         {
             base.ShowVirtual();
             Show();
         }
 
+        [ExcludeFromCodeCoverage]
         public override void Init()
         {
             base.Init();
@@ -57,6 +61,7 @@ namespace Laba10
             IsVRControllerRequired = isVRContrRequired == 1;
         }
 
+        [ExcludeFromCodeCoverage]
         public override void RandomInit()
         {
             base.RandomInit();

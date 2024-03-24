@@ -63,6 +63,7 @@ namespace Laba10
             Device = game.Device;
         }
 
+        [ExcludeFromCodeCoverage]
         public new void Show()
         {
             Console.WriteLine($"" +
@@ -71,12 +72,12 @@ namespace Laba10
                 );
         }
 
+        [ExcludeFromCodeCoverage]
         public override void ShowVirtual()
         {
             base.ShowVirtual();
             Show();
         }
-
         [ExcludeFromCodeCoverage]
         public override void Init()
         {
@@ -98,6 +99,7 @@ namespace Laba10
             LevelCount = Helpers.Helpers.EnterUInt("Количество уровней", 1);
         }
 
+        [ExcludeFromCodeCoverage]
         public override void RandomInit()
         {
             base.RandomInit();

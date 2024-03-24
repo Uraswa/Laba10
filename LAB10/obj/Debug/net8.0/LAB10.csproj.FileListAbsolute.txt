@@ -20,3 +20,4 @@ C:\Users\Admin\source\repos\Laba10\LAB10\obj\Debug\net8.0\LAB10.csproj.AssemblyR
 C:\Users\Admin\source\repos\Laba10\LAB10\obj\Debug\net8.0\LAB10.csproj.CopyComplete
 C:\Users\Admin\source\repos\Laba10\LAB10\bin\Debug\net8.0\Lab9.dll
 C:\Users\Admin\source\repos\Laba10\LAB10\bin\Debug\net8.0\Lab9.pdb
+C:\Users\Admin\source\repos\Laba10\LAB10\obj\Debug\net8.0\LAB10.sourcelink.json

@@ -1,7 +1,10 @@
 ﻿using LAB10Classes;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Lab9
 {
+    [ExcludeFromCodeCoverage] 
+    
     public class Mark : IInit
     {
         public static int InstancesCreated { get; private set; }

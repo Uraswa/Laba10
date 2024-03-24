@@ -9,3 +9,4 @@ C:\Users\Admin\source\repos\Laba10\Helpers\obj\Debug\net8.0\Helpers.dll
 C:\Users\Admin\source\repos\Laba10\Helpers\obj\Debug\net8.0\refint\Helpers.dll
 C:\Users\Admin\source\repos\Laba10\Helpers\obj\Debug\net8.0\Helpers.pdb
 C:\Users\Admin\source\repos\Laba10\Helpers\obj\Debug\net8.0\ref\Helpers.dll
+C:\Users\Admin\source\repos\Laba10\Helpers\obj\Debug\net8.0\Helpers.sourcelink.json
