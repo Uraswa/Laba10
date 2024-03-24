@@ -65,7 +65,11 @@ namespace Laba10
                 if (value == null)
                 {
                     throw new ArgumentNullException(nameof(Name));
-                } else
+                }
+                else if (value.Length == 0) {
+                    throw new ArgumentNullException("Название игры не может быть пустым!");
+                }
+                else
                 {
                     _name = value;
                 }
